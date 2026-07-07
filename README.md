@@ -39,4 +39,3 @@ git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://gi
 cd YOUR_REPOSITORY_NAME
 
 
-<img width="1013" height="855" alt="Screenshot 2026-07-07 115806" src="https://github.com/user-attachments/assets/69559331-40d4-4ede-a5cc-46ca90de4cf7" />
